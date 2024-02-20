@@ -6,7 +6,7 @@ Cezar Cranganu-Cretu
 
 ## Grob-Planung
 
-1. Im meinen Zeugnis war ich bei Informatik auf einer 5. Das einzige was mich runtergezogen hat war das Modul 162. Ich bin kein grosser Fan von Excel. 
+1. Im meinen Zeugnis war ich bei Informatik auf einer 5. Das einzige was mich runtergezogen hat war das Modul 162. Das einzige was ich dazu sagen will ist, dass ich bin kein grosser Fan von Excel. 
 2. Was hatten Sie sich am Ende von LP3 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
 3. Ich möchte geren leren wie man ein dictionaries programmiert.
 4. Ich würde geren mal einen dictionaries machen. Genauer gesagt ein dictionary über die Englischen Zeitformen.
