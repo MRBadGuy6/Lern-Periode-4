@@ -13,13 +13,14 @@ Cezar Cranganu-Cretu
 
 ## 20.2.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich begonnen an meinem dictionary zu arbeiten. Da ich so etwas noch nie gemacht habe musste ich nochmals recherchiren was genau das ist. Es ist eine gute Übung und werde sicher in der Zukunft versuchen Mini-Programme zu schreiben wo ich neue Tools lerne. Aber zurück zum Dictionary. Ich schreibe ein dictionary über die englischen Zeitformen weil ich sie immer wieder brauche und nicht immer alles Merken kann. Mithilfe diesem Programm kann ich jederzeit nachschauen. 
 
 ## 27.2.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Weitere Zeitformen hinzufügen 
+- [ ] Gute erklärungen finden für die Zeitform
+- [ ] Programm testen
+- [ ] Neues Programm ausdenken 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
@@ -29,7 +30,6 @@ Cezar Cranganu-Cretu
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 
 
