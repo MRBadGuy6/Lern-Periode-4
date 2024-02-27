@@ -8,8 +8,8 @@ Cezar Cranganu-Cretu
 
 1. Im meinen Zeugnis war ich bei Informatik auf einer 5. Das einzige was mich runtergezogen hat war das Modul 162. Das einzige was ich dazu sagen will ist, dass ich bin kein grosser Fan von Excel. 
 2. Was hatten Sie sich am Ende von LP3 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben? Ich kann mich nicht mehr daran erinnern was ich mir am Ende vorgenommen habe. 
-3. Ich möchte geren leren wie man ein dictionaries programmiert.
-4. Ich würde geren mal einen dictionaries machen. Genauer gesagt ein dictionary über die Englischen Zeitformen.
+3. Ich möchte geren leren wie man ein dictionaries programmiert. Auch möchte ich geren andere kleine Programme schreiben 
+4. Ich würde geren mal einen dictionaries machen. Genauer gesagt ein dictionary über die Englischen Zeitformen. 
 
 ## 20.2.2024
 
