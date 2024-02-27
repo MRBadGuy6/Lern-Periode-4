@@ -30,7 +30,7 @@ Cezar Cranganu-Cretu
 
 ✍️ Heute habe ich Multitasking gemacht. Begonen habe ich an meinen Dictionary zu Arbeiten und habe weitere Zeitformen hinzugefügt. Bei meiner recherche fand ich heraus, das es viel mehr gibt als ich gelernt habe. Ich werde nicht alle Zeitformen hinzufügen weil das alles ansonsten nur noch verwirrt. Zwischendurch habe ich mich spontan entschieden an meinem LB Modul 164 Datenbank weiterzuarbten. Es gab zwei Sachen die mich beunruigten: 1. Textdatei in einer SQL Tabelle importieren und 2. SQL Tabelle als SQL Datei exportieren. Das erste problem konnte ich lösen mit ihrer Hilfe. Beim zweiten konnte ich bis jetzt ur zu einem CSV exportieren. Ich arbeite noch am Nachmittag weiter, da die Abgabe morgen ist. Für das nächste mal Programmiere ich verschachtelte Dicitonary mit kunjugierten Verbformen 
 
-## 27.2.2024
+## 5.3.2024
 
 - [ ] Recherchieren wie verschachtelte dictionarys funktionieren 
 - [ ] Verschachtelte Dictionary programmieren  
