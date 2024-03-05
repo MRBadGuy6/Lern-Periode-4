@@ -32,11 +32,19 @@ Cezar Cranganu-Cretu
 
 ## 5.3.2024
 
-- [ ] Recherchieren wie verschachtelte dictionarys funktionieren 
-- [ ] Verschachtelte Dictionary programmieren  
-- [ ] Passende Verben finden zum konjugieren 
-- [ ] Programm testen 
+- [x] Recherchieren wie verschachtelte dictionarys funktionieren 
+- [x] Verschachtelte Dictionary programmieren  
+- [x] Passende Verben finden zum konjugieren 
+- [x] Programm testen
 
+✍️ Heute habe ich mich sehr produktiv gefühlt. Mir ist es gelungen, ohne Probleme an meinen Programm weiter zu arbeiten. Verschachtelte dictionarys sind einbisschen verwirrend bin aber trotzdem gut vorangekommen. Allerdings bin ich mit dem Programm noch nicht fertig, weil ich noch mehr Verben einfügen will. Auch habe ich vergessen das wir Homeoffice hätten und ich aus diesem Grund den ganzen Morgen von der BBB aus gearbeitet habe. Ich mochte die Stille sehr. 
+
+## 12.3.2024
+
+- [ ] verschachtelte dictionarys Repetieren 
+- [ ] Mehrere Zeitformen einbauen 
+- [ ] Passende Verben finden zum konjugieren 
+- [ ] Programm testen
 
 
 
