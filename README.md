@@ -41,12 +41,12 @@ Cezar Cranganu-Cretu
 
 ## 12.3.2024
 
-- [ ] verschachtelte dictionarys Repetieren 
-- [ ] Mehrere Zeitformen einbauen 
-- [ ] Passende Verben finden zum konjugieren 
-- [ ] Programm testen
+- [x] verschachtelte dictionarys Repetieren 
+- [x] Mehrere Zeitformen einbauen 
+- [x] Passende Verben finden zum konjugieren 
+- [x] Programm testen
 
-
+Heute ist es mir gelungen das Programm fertig zu schreiben. Ich muss erhlich sein aber es war schwerer als ich dachte. Es war eine gute Entscheidung nochmals alles zu repetieren. Das Programm läuft auch einwandfrei. Auch war es toll wieder mal von zu Hause aus zu arbeiten weil man ausschlafen kann.
 
 ## Reflexion
 
