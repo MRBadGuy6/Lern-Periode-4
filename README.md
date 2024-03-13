@@ -48,6 +48,13 @@ Cezar Cranganu-Cretu
 
 Heute ist es mir gelungen das Programm fertig zu schreiben. Ich muss erhlich sein aber es war schwerer als ich dachte. Es war eine gute Entscheidung nochmals alles zu repetieren. Das Programm läuft auch einwandfrei. Auch war es toll wieder mal von zu Hause aus zu arbeiten weil man ausschlafen kann.
 
+## 19.3.2024
+
+- [ ] verschachtelte dictionarys Repetieren 
+- [ ] Mehrere Zeitformen einbauen 
+- [ ] Passende Verben finden zum konjugieren 
+- [ ] Programm testen
+
 ## Reflexion
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
