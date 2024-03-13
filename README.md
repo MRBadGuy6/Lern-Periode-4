@@ -50,9 +50,9 @@ Heute ist es mir gelungen das Programm fertig zu schreiben. Ich muss erhlich sei
 
 ## 19.3.2024
 
-- [ ] verschachtelte dictionarys Repetieren 
-- [ ] Mehrere Zeitformen einbauen 
-- [ ] Passende Verben finden zum konjugieren 
+- [ ] diciotnary über Länder schreiben
+- [ ] dictionary repetieren 
+- [ ] verschachtelte dictionary repetieren  
 - [ ] Programm testen
 
 ## Reflexion
