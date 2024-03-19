@@ -50,10 +50,10 @@ Heute ist es mir gelungen das Programm fertig zu schreiben. Ich muss erhlich sei
 
 ## 19.3.2024
 
-- [ ] diciotnary über Länder schreiben
+- [ ] Aufgabe 0708 Modul 187 dokumentieren 
+- [ ] Aufgabe 0709 Modul 187 dokumentieren 
+- [ ] Aufgabe 0710 Modul 187 dokumentieren 
 - [ ] dictionary repetieren 
-- [ ] verschachtelte dictionary repetieren  
-- [ ] Programm testen
 
 ## Reflexion
 
