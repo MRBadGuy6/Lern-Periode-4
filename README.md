@@ -50,10 +50,20 @@ Heute ist es mir gelungen das Programm fertig zu schreiben. Ich muss erhlich sei
 
 ## 19.3.2024
 
-- [ ] Aufgabe 0708 Modul 187 dokumentieren 
-- [ ] Aufgabe 0709 Modul 187 dokumentieren 
-- [ ] Aufgabe 0710 Modul 187 dokumentieren 
-- [ ] dictionary repetieren 
+- [x] Aufgabe 0708 Modul 187 dokumentieren 
+- [x] Aufgabe 0709 Modul 187 dokumentieren 
+- [x] Aufgabe 0710 Modul 187 dokumentieren 
+- [x] dictionary repetieren 
+
+✍️ Heute habe ich am Modul 187 gearbeitet. Ich war um zwei Aufgaben in verzug und musste alle Aufgaben noch obendrauf dokumentieren. Der Aufwändigste Auftrag war 7010 da ich mehrere Applikationen auf Ubuntu installieren musste. Und das alles auf eine Virtualbox. Zu einem war es schwer sich durch zu manuvireren da es sehr andars Funktioniert als Windows. Schlussendlich ist es mir gelungen alle Aufgaben abzuschliessen und zu dokumentieren. Es ist gut das ich in Atelier alles nachholnen konnte. Ist sehr praktisch. 
+
+## 26.3.2024 
+
+- [ ] dictionary über Länder schreiben 
+- [ ] fakten heraussuchen über diese Ländder
+- [ ] verschachtelte dictionary repetieren 
+- [ ] Programm testen 
+
 
 ## Reflexion
 
