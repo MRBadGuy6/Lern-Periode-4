@@ -59,10 +59,12 @@ Heute ist es mir gelungen das Programm fertig zu schreiben. Ich muss erhlich sei
 
 ## 26.3.2024 
 
-- [ ] dictionary über Länder schreiben 
-- [ ] fakten heraussuchen über diese Ländder
-- [ ] verschachtelte dictionary repetieren 
-- [ ] Programm testen 
+- [x] dictionary über Länder schreiben 
+- [x] fakten heraussuchen über diese Ländder
+- [x] verschachtelte dictionary repetieren 
+- [x] Programm testen
+
+ ✍️ Heute habe ich
 
 
 ## Reflexion
