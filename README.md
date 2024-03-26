@@ -64,7 +64,7 @@ Heute ist es mir gelungen das Programm fertig zu schreiben. Ich muss erhlich sei
 - [x] verschachtelte dictionary repetieren 
 - [x] Programm testen
 
- ✍️ Heute habe ich
+ ✍️ Heute habe ich mich wieder mit dem dictionarys befasst da ich nicht mehr genau wusste was diese sind. Aus diesem Grund habe ich ein Programm mit dictionarys geschrieben über Länder. Das Programm kann mir angeben Welche Hauptstadt zu welchen Land gehört. Zum anderen habe ich auch Videos dazu angesehen um mich aufzufrischen
 
 
 ## Reflexion
