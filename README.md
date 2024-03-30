@@ -64,7 +64,13 @@ Heute ist es mir gelungen das Programm fertig zu schreiben. Ich muss erhlich sei
 - [x] verschachtelte dictionary repetieren 
 - [x] Programm testen
 
- ✍️ Heute habe ich mich wieder mit dem dictionarys befasst da ich nicht mehr genau wusste was diese sind. Aus diesem Grund habe ich ein Programm mit dictionarys geschrieben über Länder. Das Programm kann mir angeben Welche Hauptstadt zu welchen Land gehört. Zum anderen habe ich auch Videos dazu angesehen um mich aufzufrischen. Auch war es mal wieder gut von zu Hause aus zu arbeiten weil ich ausschlafen konnte . 
+ ✍️ Heute habe ich mich wieder mit dem dictionarys befasst da ich nicht mehr genau wusste was diese sind. Aus diesem Grund habe ich ein Programm mit dictionarys geschrieben über Länder. Das Programm kann mir angeben Welche Hauptstadt zu welchen Land gehört. Zum anderen habe ich auch Videos dazu angesehen um mich aufzufrischen. Auch war es mal wieder gut von zu Hause aus zu arbeiten weil ich ausschlafen konnte.
+
+ ## 2.4.24
+
+- [ ] Modul 187 Aufgabe 0711 dokumentieren 
+- [ ] Modul 187 Aufgabe 0712 dokumentieren 
+- [ ] Modul 187 Aufgabe 0713 dokumentieren 
 
 
 ## Reflexion
